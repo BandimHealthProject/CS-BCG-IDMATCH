@@ -1,0 +1,10 @@
+build/
+*.~lock.*
+app/output/props/*
+tempZipDir
+.idea/*
+app/output/*
+~*.xlsx*
+*.db
+app/config/assets/csv/*
+app/config/tables/IDMATCH/Forms/IDMATCH/images/*
