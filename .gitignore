@@ -7,4 +7,13 @@ app/output/*
 ~*.xlsx*
 *.db
 app/config/assets/csv/*
-app/config/tables/IDMATCH/Forms/IDMATCH/images/*
+app/config/tables/IDMATCH01/Forms/IDMATCH01/images/*
+app/config/tables/IDMATCH02/Forms/IDMATCH02/images/*
+app/config/tables/IDMATCH03/Forms/IDMATCH03/images/*
+app/config/tables/IDMATCH04/Forms/IDMATCH04/images/*
+app/config/tables/IDMATCH05/Forms/IDMATCH05/images/*
+app/config/tables/IDMATCH06/Forms/IDMATCH06/images/*
+app/config/tables/IDMATCH07/Forms/IDMATCH07/images/*
+app/config/tables/IDMATCH08/Forms/IDMATCH08/images/*
+app/config/tables/IDMATCH09/Forms/IDMATCH09/images/*
+app/config/tables/IDMATCH10/Forms/IDMATCH10/images/*
